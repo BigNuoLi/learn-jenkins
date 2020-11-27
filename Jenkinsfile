@@ -1,3 +1,11 @@
+/*
+  This file demo the Jenkins pipeline.
+  
+    A ---> B1             -|--> D
+       |-> B2             -|   
+       |-> C31 -> B32     -|
+*/
+
 pipeline {
     agent any
     stages {
