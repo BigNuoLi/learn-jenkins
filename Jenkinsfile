@@ -1,8 +1,8 @@
 /*
   This file demo the Jenkins pipeline.
-  
+
     A ---> B1             -|--> D
-       |-> B2             -|   
+       |-> B2             -|
        |-> C31 -> B32     -|
 */
 
